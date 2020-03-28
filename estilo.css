@@ -1,0 +1,30 @@
+.cajaInicial{
+    background-color: rgb(59, 101, 227);
+    border-style: dotted;
+}
+
+.pruebaBorde{
+    border-style: dotted;
+    margin-left: 0%;
+    border-color: brown;
+}
+
+.bordeConMargenes{
+    border: 50px 50px 50px 50px;
+    padding: 20px 40px 20px 40px;
+    border-style: solid;
+}
+
+.cajaConTextoCentrado{
+    border: 50px 50px 50px 50px;
+    padding: 20px 40px 20px 40px;
+    border-style: solid;
+    text-align: center;
+    background-image: url("imagenFondo.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    border-width: 10px;
+    border-radius: 25px;
+}
+
+
